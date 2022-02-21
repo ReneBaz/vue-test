@@ -52,11 +52,11 @@ export default {
     text-decoration: none;
     font-size: 1.5rem;
     text-align: center;
-    border: rgb(0, 0, 0) solid 3px;
+    color: rgba(48, 48, 48, 0.815);
 }
-/* #navbar a.router-link-exact-active {
-  color: #42b983;
-} */
+#navbar a.router-link-exact-active {
+  color: rgba(56, 56, 56, 0.815);
+}
 .zavihek{
     width: 100px;
     height: fit-content;
